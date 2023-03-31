@@ -1,6 +1,6 @@
 Name:		texlive-chifoot
 Version:	57312
-Release:	1
+Release:	2
 Summary:	Chicago-style footnote formatting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chifoot
