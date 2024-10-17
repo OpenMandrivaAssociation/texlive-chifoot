@@ -3,7 +3,7 @@ Version:	57312
 Release:	2
 Summary:	Chicago-style footnote formatting
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chifoot
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chifoot
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chifoot.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chifoot.doc.r%{version}.tar.xz
